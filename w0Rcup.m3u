@@ -1,0 +1,31 @@
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Worldcup Tv PH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Worldcup Tv PH
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/pp_ch2_pri/default/index.mpd|drmScheme=clearkey&drmLicense=4fef00332d7e4fbc8f7005dfbf851a59:a6368c181358f3e527411a6c452c6a1a
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",DSPORT1
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd|drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",RTB GO
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",VTV VN
+https://live.fptplay53.net/live/media/vtv3/live247-hls-avc/vtv3.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",TELEMUNDO
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master_2hr.mpd|drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",RTB ANEKA
+https://d1211whpimeups.cloudfront.net/smil:rtb2/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",VTV 6 VN
+https://live.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",KAN 1 IL
+https://d1zqtf09wb8nt5.cloudfront.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+
+#EXTINF:-1 group-title="WORLDCUP ASU" tvg-logo="https://image.pr.sbsod.com/0b705569-249b-54dd-8c5a-4073f7c6fac5?type=png&quality=75",Qazsport KZ
+https://fo01-bkm.beetv.kz/bpk-tv/000003038/tve/index.m3u8
