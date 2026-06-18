@@ -1,0 +1,18 @@
+#EXTM3U
+#CDN-USED: star.qbtbb.my.id
+#EXT-X-VERSION:6
+#EXT-X-MEDIA-SEQUENCE:5537
+#EXT-X-DISCONTINUITY-SEQUENCE:0
+#EXT-X-TARGETDURATION:7
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXTINF:6.40000000,
+https://star.qbtbb.my.id/stream/worldcup/sbs/stream05532.ts?uid=1490744160&u=imam&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#EXTINF:6.40000000,
+https://star.qbtbb.my.id/stream/worldcup/sbs/stream05533.ts?uid=1490744160&u=imam&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#EXTINF:6.40000000,
+https://star.qbtbb.my.id/stream/worldcup/sbs/stream05534.ts?uid=1490744160&u=imam&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#EXTINF:6.40000000,
+https://star.qbtbb.my.id/stream/worldcup/sbs/stream05535.ts?uid=1490744160&u=imam&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+#EXTINF:6.40000000,
+https://star.qbtbb.my.id/stream/worldcup/sbs/stream05536.ts?uid=1490744160&u=imam&p=557e305a51398df2b7c0d8e9128d55f190512cf5572931697e81c702f2f1ed35
+
