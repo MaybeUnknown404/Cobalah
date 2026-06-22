@@ -1,0 +1,17 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA-SEQUENCE:78
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:10
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_994722a7e0.ts
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_0b6060fae4.ts
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_df82f4abe0.ts
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_84faa4bf4f.ts
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_d3795c9db6.ts
+#EXTINF:10.000000,
+https://prod-hls-qtv-2.evotv.my.id/streams/volitv/segment/timeline_1bb082ea4d.ts
