@@ -1,0 +1,9 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:0
+#EXT-X-MEDIA-SEQUENCE:0
+
+#EXTINF:-1,Video Saya
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/lv_0_20260626124549.ts
+
+#EXT-X-ENDLIST
