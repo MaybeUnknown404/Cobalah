@@ -2,6 +2,7 @@
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:11
 #EXT-X-MEDIA-SEQUENCE:0
+#EXT-X-PLAYLIST-TYPE:EVENT
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
@@ -9,11 +10,7 @@ https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
 #EXTINF:7.032111,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
 
-#EXTINF:10.010911,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
-
-#EXTINF:7.032111,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+#EXT-X-DISCONTINUITY
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
@@ -21,11 +18,7 @@ https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
 #EXTINF:7.032111,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
 
-#EXTINF:10.010911,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
-
-#EXTINF:7.032111,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+#EXT-X-DISCONTINUITY
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
@@ -33,11 +26,7 @@ https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
 #EXTINF:7.032111,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
 
-#EXTINF:10.010911,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
-
-#EXTINF:7.032111,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+#EXT-X-DISCONTINUITY
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
@@ -45,17 +34,47 @@ https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
 #EXTINF:7.032111,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
 
-#EXTINF:10.010911,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
-
-#EXTINF:7.032111,
-https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+#EXT-X-DISCONTINUITY
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
 
 #EXTINF:7.032111,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+
+#EXT-X-DISCONTINUITY
+
+#EXTINF:10.010911,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
+
+#EXTINF:7.032111,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+
+#EXT-X-DISCONTINUITY
+
+#EXTINF:10.010911,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
+
+#EXTINF:7.032111,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+
+#EXT-X-DISCONTINUITY
+
+#EXTINF:10.010911,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
+
+#EXTINF:7.032111,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+
+#EXT-X-DISCONTINUITY
+
+#EXTINF:10.010911,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
+
+#EXTINF:7.032111,
+https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot1.ts
+
+#EXT-X-DISCONTINUITY
 
 #EXTINF:10.010911,
 https://raw.githubusercontent.com/MaybeUnknown404/Cobalah/main/kentot0.ts
